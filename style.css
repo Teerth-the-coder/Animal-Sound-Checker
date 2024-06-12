@@ -1,0 +1,53 @@
+body {
+    background: linear-gradient(90deg, rgb(199, 46, 250) 0%, rgb(132, 0, 255) 78%);
+}
+
+.header_div {
+    background: white;
+    color: darkslateblue;
+}
+
+.header_div p {
+    color: black;
+    letter-spacing: 3px;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: "Lato", sans-serif;
+}
+
+.main_div button {
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+
+.copyright-footer {
+    text-align: center;
+    position: fixed;
+    color: cornflowerblue;
+    bottom: 0;
+    width: 100%;
+    font-size: 20px;
+    background: white;
+    line-height: 3;
+    text-shadow: 5px 5px 5px red;
+
+
+    font-family: "DM Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+h2 {
+    font-family: "Nunito", sans-serif;
+}
+
+img {
+    border-radius: 10px;
+    height: 250px;
+    width: 450px;
+}
